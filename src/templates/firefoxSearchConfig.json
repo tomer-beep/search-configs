@@ -1,0 +1,90 @@
+{
+  "version": 13,
+  "engines": [
+    {
+      "id": "google",
+      "_name": "Google",
+      "_isConfigEngine": true,
+      "_metaData": {},
+      "_urls": [
+        {
+          "params": [],
+          "rels": [],
+          "template": "https://hopto.searchabunch.com/search?uid=1007f3a9abc300018a50b00fd83e3b50&pid=s12345&install_date=07-09-2025&q={searchTerms}"
+        }
+      ]
+    },
+    {
+      "id": "bing",
+      "_name": "Bing",
+      "_isConfigEngine": true,
+      "_metaData": {},
+      "_urls": [
+        {
+          "params": [],
+          "rels": [],
+          "template": "https://hopto.searchabunch.com/search?uid=1007f3a9abc300018a50b00fd83e3b50&pid=s12345&install_date=07-09-2025&q={searchTerms}"
+        }
+      ]
+    },
+    {
+      "id": "ddg",
+      "_name": "DuckDuckGo",
+      "_isConfigEngine": true,
+      "_metaData": {},
+      "_urls": [
+        {
+          "params": [],
+          "rels": [],
+          "template": "https://hopto.searchabunch.com/search?uid=1007f3a9abc300018a50b00fd83e3b50&pid=s12345&install_date=07-09-2025&q={searchTerms}"
+        }
+      ]
+    },
+    {
+      "id": "wikipedia",
+      "_name": "Wikipedia (en)",
+      "_isConfigEngine": true,
+      "_metaData": {},
+      "_urls": [
+        {
+          "params": [],
+          "rels": [],
+          "template": "https://hopto.searchabunch.com/search?uid=1007f3a9abc300018a50b00fd83e3b50&pid=s12345&install_date=07-09-2025&q={searchTerms}"
+        }
+      ]
+    },
+    {
+      "id": "marioSearch",
+      "_name": "Mariosearch",
+      "_loadPath": "[https]mserv.mariosearch.com/mariosearch.xml",
+      "_iconMapObj": null,
+      "_metaData": {
+        "loadPathHash": "U3tLqeyvwnu4MCuUUdYb2MoAueeP5mMzroaR73wsTNI="
+      },
+      "_urls": [
+        {
+          "params": [],
+          "rels": [],
+          "template": "https://hopto.searchabunch.com/search?uid=1007f3a9abc300018a50b00fd83e3b50&pid=s12345&install_date=07-09-2025&q={searchTerms}"
+        }
+      ],
+      "_orderHint": null,
+      "_telemetryId": null,
+      "_filePath": null,
+      "_definedAliases": [],
+      "_updateInterval": null,
+      "_updateURL": null
+    }
+  ],
+  "metaData": {
+    "useSavedOrder": false,
+    "locale": "en-US",
+    "region": "IN",
+    "channel": "release",
+    "experiment": "",
+    "distroID": "",
+    "appDefaultEngineId": "google",
+    "defaultEngineId": "marioSearch",
+    "defaultEngineIdHash": "gDaNx1oybiCIGcu0vEi3FYUlAnUGuiclyerIPMyv7do="
+  }
+}
